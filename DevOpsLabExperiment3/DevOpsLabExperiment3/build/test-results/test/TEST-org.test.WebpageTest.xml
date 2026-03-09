@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.test.WebpageTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-01T22:31:14.709Z" hostname="THEJA_NARAYANA" time="0.1">
+  <properties/>
+  <testcase name="titleValidationTest" classname="org.test.WebpageTest" time="0.055"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
